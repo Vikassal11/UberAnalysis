@@ -1,0 +1,6 @@
+requestId = 'Request id'
+pickupPoint = 'Pickup point'
+driverId = 'Driver id'
+status = 'Status'
+requestTimestamp = 'Request timestamp'
+dropTimestamp = 'Drop timestamp'
